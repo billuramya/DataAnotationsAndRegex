@@ -1,0 +1,14 @@
+C:\Users\billu\source\repos\RegularExpressions\RegularExpressions\bin\Debug\net8.0\RegularExpressions.exe
+C:\Users\billu\source\repos\RegularExpressions\RegularExpressions\bin\Debug\net8.0\RegularExpressions.deps.json
+C:\Users\billu\source\repos\RegularExpressions\RegularExpressions\bin\Debug\net8.0\RegularExpressions.runtimeconfig.json
+C:\Users\billu\source\repos\RegularExpressions\RegularExpressions\bin\Debug\net8.0\RegularExpressions.dll
+C:\Users\billu\source\repos\RegularExpressions\RegularExpressions\bin\Debug\net8.0\RegularExpressions.pdb
+C:\Users\billu\source\repos\RegularExpressions\RegularExpressions\obj\Debug\net8.0\RegularExpressions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\billu\source\repos\RegularExpressions\RegularExpressions\obj\Debug\net8.0\RegularExpressions.AssemblyInfoInputs.cache
+C:\Users\billu\source\repos\RegularExpressions\RegularExpressions\obj\Debug\net8.0\RegularExpressions.AssemblyInfo.cs
+C:\Users\billu\source\repos\RegularExpressions\RegularExpressions\obj\Debug\net8.0\RegularExpressions.csproj.CoreCompileInputs.cache
+C:\Users\billu\source\repos\RegularExpressions\RegularExpressions\obj\Debug\net8.0\RegularExpressions.dll
+C:\Users\billu\source\repos\RegularExpressions\RegularExpressions\obj\Debug\net8.0\refint\RegularExpressions.dll
+C:\Users\billu\source\repos\RegularExpressions\RegularExpressions\obj\Debug\net8.0\RegularExpressions.pdb
+C:\Users\billu\source\repos\RegularExpressions\RegularExpressions\obj\Debug\net8.0\RegularExpressions.genruntimeconfig.cache
+C:\Users\billu\source\repos\RegularExpressions\RegularExpressions\obj\Debug\net8.0\ref\RegularExpressions.dll
